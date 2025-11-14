@@ -1,0 +1,7 @@
+{
+  "name": "ePizza Marketplace",
+  "description": "A comprehensive marketplace for pizzerias, allowing customers to discover restaurants, customize orders for delivery or pickup, and track their order status in real-time. This application provides a seamless and engaging user experience for pizza lovers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
